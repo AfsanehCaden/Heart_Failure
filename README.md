@@ -22,6 +22,8 @@ After applying Logistic Regression, Decision Tree, and Random Forest methods and
 •	Out of all mortality predictions, 72.4% is truly mortality (Precision Score of 0.724)
 
 •	is performing 89.6% well (ROC AUC Score of 0.896)
+![image](https://github.com/user-attachments/assets/edbe9d4b-d9b5-4964-95cb-2e56bf59bafb)
+
 
 
 # Final summary: 
