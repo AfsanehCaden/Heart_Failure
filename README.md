@@ -15,9 +15,13 @@
 
 After applying Logistic Regression, Decision Tree, and Random Forest methods and analyzing the dataset based on the objectives, the project ended up with the mortality prediction model using Random Forest, which:
 
+•	Is 85.6% accurate in classifying the patients as dead or survived (Accuracy Score of 0.856)
 
-![image](https://github.com/user-attachments/assets/edbe9d4b-d9b5-4964-95cb-2e56bf59bafb)
+•	Predicted 80.8% correctly for predicting mortality (Recall Score of 0.808)
 
+•	Out of all mortality predictions, 72.4% is truly mortality (Precision Score of 0.724)
+
+•	is performing 89.6% well (ROC AUC Score of 0.896)
 
 
 # Final summary: 
